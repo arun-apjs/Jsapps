@@ -10,7 +10,7 @@
 
     <script>
         // Print "Hello" to the console
-        console.log("Hello");
+        console.log("Hello *************************");
 
         // Display "Hello" on the webpage
         document.getElementById("message").textContent = "Hello";
